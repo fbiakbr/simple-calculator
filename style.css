@@ -1,0 +1,21 @@
+body {
+    background-color: #1B2430;
+    color: #fff;
+}
+.btn {
+    width: 100%;
+}
+
+.calculator {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+footer {
+    font-size: 12px;
+}
+footer a {
+    appearance: none;
+    text-decoration: none;
+}
